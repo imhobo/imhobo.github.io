@@ -4,14 +4,23 @@ title: About
 permalink: /about/
 ---
 
-This is an example page that uses the `page` layout.
+Hi, I am Safal.  
 
-Visit the [Homepage]({{ site.baseurl | prepend: site.url }}/) for documentation on installation, setup, how-tos, features, and more about this Jekyll theme.
+I was brought up in Delhi and currently working in Bangalore. I am a Software Engineer by day and an armchair philosopher by night.  
+
+I love all competitive sports and games notably Cricket, Badminton, Dota and chess. 
+
+I also spend considerable amount of time just thinking. I wish I could use some of that time to do something meaningful that could make some money for God's sake.
+
+Federer over Nadal/Djokovic  
+Vim over Emacs  
+Beaches over Mountains  
+
 
 ---
 
-Email us at [hi@oinam.com](mailto:hi@oinam.com?subject=Oinam Jekyll).\
-Find us at
-[oinam.com](https://oinam.com),
-[Twitter](https://twitter.com/oinam),
-[Instagram](https://www.instagram.com/oinam/).
+Email me at [safalpandita@gmail.com](mailto:safalpandita@gmail.com?subject=Hello Safal).\
+Find me at
+[Facebook](https://www.facebook.com/safalpandita/),
+[LinkedIn](https://www.linkedin.com/in/safal-pandita-6476bb83/),
+[GitHub](https://github.com/imhobo)
