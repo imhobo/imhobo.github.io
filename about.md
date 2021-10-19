@@ -6,6 +6,8 @@ permalink: /about/
 
 
 <img class="small left" src="https://raw.githubusercontent.com/imhobo/imhobo.github.io/6a7c744be195123b9339ee10faf48a4b2c85ff3c/images/image.jpg" width="400" alt="Somewhere in Goa">
+<em class="caption">Somewhere in Goa</em>
+
 
 Hi, I am Safal.  
 
@@ -15,10 +17,10 @@ I love all competitive sports and games notably Badminton, Chess, Cricket and Do
 
 I also spend considerable amount of time just thinking. I wish I could use some of that time to do something meaningful that could make some money for God's sake.
 
-Federer over Nadal/Djokovic  
-Sachin over Kohli  
-Vim over Emacs  
-Beaches over Mountains  
+> Federer over Nadal/Djokovic    
+> Sachin over Kohli    
+> Vim over Emacs    
+> Beaches over Mountains    
 
 
 ---
