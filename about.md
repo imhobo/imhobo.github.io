@@ -6,7 +6,7 @@ permalink: /about/
 
 
 <img class="small left" src="https://raw.githubusercontent.com/imhobo/imhobo.github.io/6a7c744be195123b9339ee10faf48a4b2c85ff3c/images/image.jpg" width="400" alt="Somewhere in Goa">
-<em class="caption">Somewhere in Goa</em>
+_Somewhere in Goa_
 
 
 Hi, I am Safal.  
