@@ -2,6 +2,9 @@
   {% include nav.html %}
   <div class="footer__credit">
     <div>
+
+      <img src="https://visitor-badge.glitch.me/badge?page_id={{ .Permalink }}" alt="Views"/>
+
       <p>
         {% if site.footer.custom != false %}
           <small>{{ site.footer_custom }}</small>
@@ -13,5 +16,7 @@
     {% if site.layout.theme_switch != false %}
       {% include appearance.html %}
     {% endif %}
+
   </div>
+
 </footer>
