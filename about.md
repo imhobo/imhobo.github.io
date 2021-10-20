@@ -14,7 +14,7 @@ Hi, I am Safal.
 I was brought up in Delhi and currently working in Bangalore. I am a Software Engineer by day and an armchair philosopher by night.  
 
 I love all competitive sports and games notably Badminton, Chess, Cricket and DotA. 
-test.md
+
 I also spend considerable amount of time just thinking. I wish I could use some of that time to do something meaningful that could make some money for God's sake.
 
 > Federer over Nadal/Djokovic    
