@@ -5,7 +5,9 @@ author: Safal Pandita
 # Set this to your domain; baseurl is for the folder in your domain, if you have one -- `blog`.
 # you can leave both of them blank if you are deploying on a top-level domain.
 url: 
-baseurl: 
+baseurl:
+
+mailchimp-list: "https://gmail.us5.list-manage.com/subscribe/post?u=f0c6d9cd44c7b0223868e2142&amp;id=8b85678216"
 
 # footer
 footer:
