@@ -38,7 +38,7 @@ Find me at
 	#mc_embed_signup{background:#F5F5F6; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
 	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-    #trust { padding-top: 0.5em;text-align: left;}
+    #trust { padding-top: 0.5em;text-align: center;}
     #disclaimer { background:#f7f7f7; width:100%;}
 </style>
 
