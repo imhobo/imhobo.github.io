@@ -55,7 +55,7 @@ Find me at
     </form>
   </div>
   <div id="disclaimer">
-    Disclaimer: Opinions are my own and not the views of my employer
+    <b>Disclaimer: Opinions are my own and not the views of my employer</b>
   </div>
 
   <!--End mc_embed_signup-->
