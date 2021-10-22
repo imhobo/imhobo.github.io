@@ -4,7 +4,6 @@ layout: default
 
 <div class="post-meta">
   <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ page.date | date: '%a, %b %-d, %Y' }}</time>
-  {% include share.html %}
   <span>{%- include read-time.html -%}</span>
 </div>
   
@@ -12,6 +11,8 @@ layout: default
   <h1>{{ page.title }}</h1>
   {{ content }}
 </article>
+
+{% include share.html %}
 
 <div class="post-nav">
   <span>

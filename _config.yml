@@ -8,6 +8,7 @@ url:
 baseurl:
 
 mailchimp-list: "https://gmail.us5.list-manage.com/subscribe/post?u=f0c6d9cd44c7b0223868e2142&amp;id=8b85678216"
+encoding: UTF-8
 
 # footer
 footer:
