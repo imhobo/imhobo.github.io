@@ -5,14 +5,12 @@
             <p class="sharetitle"> Share this: </p>
         </li>
         <li class="reddit">
-            <a  href="http://www.reddit.com/submit?url={{ site.url }}{{ site.baseurl }}{{ page.url }}"
-                onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;">
+            <a href="http://www.reddit.com/submit?url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}&title={{ page.title | uri_escape }}" target="_blank">
                 {% include social/reddit.svg %}
             </a>
         </li>
         <li class="twitter">
-            <a  href="http://www.reddit.com/submit?url={{ site.url }}{{ site.baseurl }}{{ page.url }}"
-                onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;">
+            <a href="http://www.reddit.com/submit?url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}&title={{ page.title | uri_escape }}" target="_blank">
             {% include social/twitter.svg %}
             </a>
         </li>
@@ -22,8 +20,7 @@
               </a>
             </li> -->
         <li class="linkedin">
-            <a  href="http://www.reddit.com/submit?url={{ site.url }}{{ site.baseurl }}{{ page.url }}"
-                onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;">
+            <a href="http://www.reddit.com/submit?url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}&title={{ page.title | uri_escape }}" target="_blank">
             {% include social/lin.svg %}
             </a>
         </li>
