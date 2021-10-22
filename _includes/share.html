@@ -5,12 +5,12 @@
             <p class="sharetitle"> Share this: </p>
         </li>
         <li class="reddit">
-            <a href="http://www.reddit.com/submit?url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}&title={{ page.title | uri_escape }}" target="_blank">
+            <a href="http://www.reddit.com/submit?url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}&title={{ page.title | default:"" | uri_escape }}" target="_blank" onclick="trackOutboundLink('http://www.reddit.com/submit?url={{ page.url }}');">
                 {% include social/reddit.svg %}
             </a>
         </li>
         <li class="twitter">
-            <a href="http://www.reddit.com/submit?url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}&title={{ page.title | uri_escape }}" target="_blank">
+            <a href="http://www.reddit.com/submit?url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}&title={{ page.title | default:"" | uri_escape }}" target="_blank" onclick="trackOutboundLink('http://www.reddit.com/submit?url={{ page.url }}');">
             {% include social/twitter.svg %}
             </a>
         </li>
@@ -20,7 +20,7 @@
               </a>
             </li> -->
         <li class="linkedin">
-            <a href="http://www.reddit.com/submit?url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}&title={{ page.title | uri_escape }}" target="_blank">
+            <a href="http://www.reddit.com/submit?url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}&title={{ page.title | default:"" | uri_escape }}" target="_blank" onclick="trackOutboundLink('http://www.reddit.com/submit?url={{ page.url }}');">
             {% include social/lin.svg %}
             </a>
         </li>
