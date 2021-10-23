@@ -60,6 +60,9 @@ defaults:
     values:
       layout: 'post'
       permalink: '/:year/:title/'
+      image: /favicon.ico
+
+
 
 titles_from_headings:
   enabled: true
