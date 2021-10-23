@@ -60,7 +60,7 @@ defaults:
     values:
       layout: 'post'
       permalink: '/:year/:title/'
-      image: /favicon.ico
+      image: /images/logo.png
 
 
 
